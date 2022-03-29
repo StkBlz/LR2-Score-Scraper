@@ -1,0 +1,6 @@
+flask
+pandas
+matplotlib
+waitress
+bs4
+requests
