@@ -1,5 +1,5 @@
 # Lunatic Rave 2 Score Scraper 
-## [Live Version](https://lr2ir-top-scores.herokuapp.com/)
+### [Live Version](https://lr2ir-top-scores.herokuapp.com/)
 
 This app scrapes score data from [Lunatic Rave 2's Score Database website](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=1031). It cleans and formats the scraped HTML data into a readable pandas dataframe format. The intended goal was to be able to view charts for BMS songs faster than having to open BeMusicSeeker.
 
