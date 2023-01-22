@@ -1,0 +1,7 @@
+*.bat
+venv
+__pycache__/
+.pkl
+static/
+templates
+screenshots/
