@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, sessions,redirect
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 1000 * 1000
-app.secret_key='keygoeshere'
+app.secret_key=secret
 
 from Rankings import Rankings
 import fetch
